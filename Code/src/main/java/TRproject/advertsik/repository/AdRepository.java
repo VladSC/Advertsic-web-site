@@ -1,6 +1,6 @@
 package TRproject.advertsik.repository;
 
-import com.yuditsky.advertsik.bean.Ad;
+import TRproject.advertsik.bean.Ad;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
